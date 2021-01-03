@@ -1,0 +1,2 @@
+message="HelloPythonWorld"
+print(message)
