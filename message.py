@@ -1,2 +1,0 @@
-message="HelloPythonWorld"
-print(message)
